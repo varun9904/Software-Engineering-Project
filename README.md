@@ -30,13 +30,15 @@ Blood Bank Donation System is a php based web project with both admin and user l
 
 10. After importing successfully.
 
-11. Open any browser and type http://localhost/BDMS/home.php to open User layout.
+11. Open any browser and type http://localhost/Blood-Bank-And-Donation-Management-System-master/Blood-Bank-And-Donation-Management-System-master/home.php
+ to open User layout.
      
 # Admin Panel
-   Open any browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
+   Open any browser and type http://localhost/Blood-Bank-And-Donation-Management-System-master/Blood-Bank-And-Donation-Management-System-master/admin/login.php
+    to open Admin Login Panel.
    
    Enter Below Credentials to login to the Admin Panel.<br>
-   <b> Username = </b> varunsardana004<br>
+   <b> Username = </b> Varun_Sharma<br>
    <b>Password = </b> 123
    
 # If you like my project hit the star 🌟 button
@@ -111,7 +113,5 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <img src="https://user-images.githubusercontent.com/54537819/96366208-b15c9000-1163-11eb-8163-e2d9f9bc4af5.png">
    
    
-http://localhost/Blood-Bank-And-Donation-Management-System-master/Blood-Bank-And-Donation-Management-System-master/home.php
 
-http://localhost/Blood-Bank-And-Donation-Management-System-master/Blood-Bank-And-Donation-Management-System-master/admin/login.php
 # Software-Engineering-Project
